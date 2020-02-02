@@ -17,6 +17,10 @@ instagram:   ''
 facebook:    ''
 
 markdown:  kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+
 permalink: pretty
 paginate:  10
 
