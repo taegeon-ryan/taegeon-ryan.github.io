@@ -10,7 +10,7 @@ title:       '태건'
 email:       'taegeon@kakao.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         'https://taegeon-ryan.github.io' # The base hostname & protocol for your site
 twitter:     ''
 github:      'https://github.com/taegeon-ryan'
 instagram:   ''
