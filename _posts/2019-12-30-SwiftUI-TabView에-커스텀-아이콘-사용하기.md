@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SwiftUI) TabView에 커스텀 아이콘 사용하기
+title: "SwiftUI) TabView에 커스텀 아이콘 사용하기"
 tags: [SwiftUI, Swift, Xcode, iOS]
 ---
 
